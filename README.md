@@ -76,7 +76,3 @@ Then open http://localhost:3000 in your browser.
 ## Result
 
 ![Windows setup](windows-setup.png)
-
-## Live Demo (Replit)
-
-[View App](https://spain-weather-map--painkiller2126.replit.app/)
